@@ -1,0 +1,5102 @@
+%PDF-1.3
+1 0 obj
+<<
+/Kids [ 3 0 R 4 0 R 5 0 R 6 0 R 7 0 R ]
+/Type /Pages
+/Count 5
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+>>
+endobj
+3 0 obj
+<<
+/Contents 9 0 R
+/Parent 1 0 R
+/Type /Page
+/Resources <<
+/Font 10 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Trans <<
+>>
+/Rotate 0
+/MediaBox [ 0 0 595.2756 841.8898 ]
+>>
+endobj
+4 0 obj
+<<
+/Contents 13 0 R
+/Parent 1 0 R
+/Type /Page
+/Resources <<
+/Font 10 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Trans <<
+>>
+/Rotate 0
+/MediaBox [ 0 0 595.2756 841.8898 ]
+>>
+endobj
+5 0 obj
+<<
+/Contents 14 0 R
+/Parent 1 0 R
+/Type /Page
+/Resources <<
+/Font 10 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Trans <<
+>>
+/Rotate 0
+/MediaBox [ 0 0 595.2756 841.8898 ]
+>>
+endobj
+6 0 obj
+<<
+/Contents 15 0 R
+/Parent 1 0 R
+/Type /Page
+/Resources <<
+/Font 10 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Trans <<
+>>
+/Rotate 0
+/MediaBox [ 0 0 595.2756 841.8898 ]
+>>
+endobj
+7 0 obj
+<<
+/Contents 16 0 R
+/Parent 1 0 R
+/Resources <<
+/Font 10 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Trans <<
+>>
+/Rotate 0
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Annots [ 17 0 R ]
+/Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+9 0 obj
+<<
+/Length 16867
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 63.83488 0 Td (MRIQC: functional MRI group report) Tj T* -63.83488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 725.0236 cm
+Q
+q
+1 0 0 1 62.69291 653.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Date and time: 2016-09-27, 16:52.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (MRIQC version: 0.8.6a8.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Failed workflows: none.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Image parameters:) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 653.0236 cm
+Q
+q
+1 0 0 1 62.69291 647.0236 cm
+Q
+q
+1 0 0 1 62.69291 77.02362 cm
+1 1 1 rg
+n 0 570 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 540 469.8898 -30 re f*
+1 1 1 rg
+n 0 510 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 480 469.8898 -30 re f*
+1 1 1 rg
+n 0 450 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 420 469.8898 -30 re f*
+1 1 1 rg
+n 0 390 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 360 469.8898 -30 re f*
+1 1 1 rg
+n 0 330 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 300 469.8898 -30 re f*
+1 1 1 rg
+n 0 270 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 240 469.8898 -30 re f*
+1 1 1 rg
+n 0 210 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 180 469.8898 -30 re f*
+1 1 1 rg
+n 0 150 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 120 469.8898 -30 re f*
+1 1 1 rg
+n 0 90 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 60 469.8898 -30 re f*
+1 1 1 rg
+n 0 30 469.8898 -30 re f*
+.960784 .960784 .862745 rg
+n 0 570 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 21.56355 24 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .776777 0 Td (Subj) Tj T* 3.335 0 Td (ect) Tj T* -4.111777 0 Td ET
+Q
+Q
+q
+1 0 0 1 39.56355 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 21.56355 24 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.166777 0 Td (Ses) Tj T* -0.555 0 Td (sion) Tj T* -1.611777 0 Td ET
+Q
+Q
+q
+1 0 0 1 73.12711 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 174.9969 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 78.32847 0 Td (Run) Tj T* -78.32847 0 Td ET
+Q
+Q
+q
+1 0 0 1 260.1241 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 45.53752 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 13.04376 0 Td (Size) Tj T* -13.04376 0 Td ET
+Q
+Q
+q
+1 0 0 1 317.6616 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 88.69066 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 26.28033 0 Td (Spacing) Tj T* -26.28033 0 Td ET
+Q
+Q
+q
+1 0 0 1 418.3522 543 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 45.53752 24 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .818761 0 Td (# Timepoi) Tj T* 15.28 0 Td (nts) Tj T* -16.09876 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (237) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (237) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (237) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (237) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (237) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (237) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (25) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 0 540 m 469.8898 540 l S
+n 0 510 m 469.8898 510 l S
+n 0 480 m 469.8898 480 l S
+n 0 450 m 469.8898 450 l S
+n 0 420 m 469.8898 420 l S
+n 0 390 m 469.8898 390 l S
+n 0 360 m 469.8898 360 l S
+n 0 330 m 469.8898 330 l S
+n 0 300 m 469.8898 300 l S
+n 0 270 m 469.8898 270 l S
+n 0 240 m 469.8898 240 l S
+n 0 210 m 469.8898 210 l S
+n 0 180 m 469.8898 180 l S
+n 0 150 m 469.8898 150 l S
+n 0 120 m 469.8898 120 l S
+n 0 90 m 469.8898 90 l S
+n 0 60 m 469.8898 60 l S
+n 0 30 m 469.8898 30 l S
+n 33.56355 0 m 33.56355 570 l S
+n 67.12711 0 m 67.12711 570 l S
+n 254.1241 0 m 254.1241 570 l S
+n 311.6616 0 m 311.6616 570 l S
+n 412.3522 0 m 412.3522 570 l S
+n 0 570 m 469.8898 570 l S
+n 0 0 m 0 570 l S
+n 469.8898 0 m 469.8898 570 l S
+Q
+Q
+ 
+
+endstream
+endobj
+10 0 obj
+<<
+/F2 11 0 R
+/F1 12 0 R
+>>
+endobj
+11 0 obj
+<<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F2
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+>>
+endobj
+12 0 obj
+<<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+endobj
+13 0 obj
+<<
+/Length 16902
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 105.0236 cm
+1 1 1 rg
+n 0 660 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 630 469.8898 -30 re f*
+1 1 1 rg
+n 0 600 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 570 469.8898 -30 re f*
+1 1 1 rg
+n 0 540 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 510 469.8898 -30 re f*
+1 1 1 rg
+n 0 480 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 450 469.8898 -30 re f*
+1 1 1 rg
+n 0 420 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 390 469.8898 -30 re f*
+1 1 1 rg
+n 0 360 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 330 469.8898 -30 re f*
+1 1 1 rg
+n 0 300 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 270 469.8898 -30 re f*
+1 1 1 rg
+n 0 240 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 210 469.8898 -30 re f*
+1 1 1 rg
+n 0 180 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 150 469.8898 -30 re f*
+1 1 1 rg
+n 0 120 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -30 re f*
+1 1 1 rg
+n 0 60 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 30 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 633 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 633 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 633 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 603 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 603 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 603 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 543 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 543 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 543 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 660 m 469.8898 660 l S
+n 0 0 m 469.8898 0 l S
+n 0 630 m 469.8898 630 l S
+n 0 600 m 469.8898 600 l S
+n 0 570 m 469.8898 570 l S
+n 0 540 m 469.8898 540 l S
+n 0 510 m 469.8898 510 l S
+n 0 480 m 469.8898 480 l S
+n 0 450 m 469.8898 450 l S
+n 0 420 m 469.8898 420 l S
+n 0 390 m 469.8898 390 l S
+n 0 360 m 469.8898 360 l S
+n 0 330 m 469.8898 330 l S
+n 0 300 m 469.8898 300 l S
+n 0 270 m 469.8898 270 l S
+n 0 240 m 469.8898 240 l S
+n 0 210 m 469.8898 210 l S
+n 0 180 m 469.8898 180 l S
+n 0 150 m 469.8898 150 l S
+n 0 120 m 469.8898 120 l S
+n 0 90 m 469.8898 90 l S
+n 0 60 m 469.8898 60 l S
+n 0 30 m 469.8898 30 l S
+n 33.56355 0 m 33.56355 660 l S
+n 67.12711 0 m 67.12711 660 l S
+n 254.1241 0 m 254.1241 660 l S
+n 311.6616 0 m 311.6616 660 l S
+n 412.3522 0 m 412.3522 660 l S
+n 0 0 m 0 660 l S
+n 469.8898 0 m 469.8898 660 l S
+Q
+Q
+ 
+
+endstream
+endobj
+14 0 obj
+<<
+/Length 16912
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 105.0236 cm
+1 1 1 rg
+n 0 660 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 630 469.8898 -30 re f*
+1 1 1 rg
+n 0 600 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 570 469.8898 -30 re f*
+1 1 1 rg
+n 0 540 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 510 469.8898 -30 re f*
+1 1 1 rg
+n 0 480 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 450 469.8898 -30 re f*
+1 1 1 rg
+n 0 420 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 390 469.8898 -30 re f*
+1 1 1 rg
+n 0 360 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 330 469.8898 -30 re f*
+1 1 1 rg
+n 0 300 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 270 469.8898 -30 re f*
+1 1 1 rg
+n 0 240 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 210 469.8898 -30 re f*
+1 1 1 rg
+n 0 180 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 150 469.8898 -30 re f*
+1 1 1 rg
+n 0 120 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -30 re f*
+1 1 1 rg
+n 0 60 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 30 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 633 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 633 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 633 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 603 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 603 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 603 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 543 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 543 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 543 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (08) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (09) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 660 m 469.8898 660 l S
+n 0 0 m 469.8898 0 l S
+n 0 630 m 469.8898 630 l S
+n 0 600 m 469.8898 600 l S
+n 0 570 m 469.8898 570 l S
+n 0 540 m 469.8898 540 l S
+n 0 510 m 469.8898 510 l S
+n 0 480 m 469.8898 480 l S
+n 0 450 m 469.8898 450 l S
+n 0 420 m 469.8898 420 l S
+n 0 390 m 469.8898 390 l S
+n 0 360 m 469.8898 360 l S
+n 0 330 m 469.8898 330 l S
+n 0 300 m 469.8898 300 l S
+n 0 270 m 469.8898 270 l S
+n 0 240 m 469.8898 240 l S
+n 0 210 m 469.8898 210 l S
+n 0 180 m 469.8898 180 l S
+n 0 150 m 469.8898 150 l S
+n 0 120 m 469.8898 120 l S
+n 0 90 m 469.8898 90 l S
+n 0 60 m 469.8898 60 l S
+n 0 30 m 469.8898 30 l S
+n 33.56355 0 m 33.56355 660 l S
+n 67.12711 0 m 67.12711 660 l S
+n 254.1241 0 m 254.1241 660 l S
+n 311.6616 0 m 311.6616 660 l S
+n 412.3522 0 m 412.3522 660 l S
+n 0 0 m 0 660 l S
+n 469.8898 0 m 469.8898 660 l S
+Q
+Q
+ 
+
+endstream
+endobj
+15 0 obj
+<<
+/Length 16902
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 105.0236 cm
+1 1 1 rg
+n 0 660 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 630 469.8898 -30 re f*
+1 1 1 rg
+n 0 600 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 570 469.8898 -30 re f*
+1 1 1 rg
+n 0 540 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 510 469.8898 -30 re f*
+1 1 1 rg
+n 0 480 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 450 469.8898 -30 re f*
+1 1 1 rg
+n 0 420 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 390 469.8898 -30 re f*
+1 1 1 rg
+n 0 360 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 330 469.8898 -30 re f*
+1 1 1 rg
+n 0 300 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 270 469.8898 -30 re f*
+1 1 1 rg
+n 0 240 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 210 469.8898 -30 re f*
+1 1 1 rg
+n 0 180 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 150 469.8898 -30 re f*
+1 1 1 rg
+n 0 120 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -30 re f*
+1 1 1 rg
+n 0 60 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 30 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 633 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 633 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 633 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 645 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 603 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 603 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 603 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 615 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 573 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 585 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 543 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 543 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 543 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 555 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (13) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (13) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (13) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (13) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (232) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (13) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (13) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (14) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (14) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (14) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (234) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (14) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (234) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (14) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (14) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 660 m 469.8898 660 l S
+n 0 0 m 469.8898 0 l S
+n 0 630 m 469.8898 630 l S
+n 0 600 m 469.8898 600 l S
+n 0 570 m 469.8898 570 l S
+n 0 540 m 469.8898 540 l S
+n 0 510 m 469.8898 510 l S
+n 0 480 m 469.8898 480 l S
+n 0 450 m 469.8898 450 l S
+n 0 420 m 469.8898 420 l S
+n 0 390 m 469.8898 390 l S
+n 0 360 m 469.8898 360 l S
+n 0 330 m 469.8898 330 l S
+n 0 300 m 469.8898 300 l S
+n 0 270 m 469.8898 270 l S
+n 0 240 m 469.8898 240 l S
+n 0 210 m 469.8898 210 l S
+n 0 180 m 469.8898 180 l S
+n 0 150 m 469.8898 150 l S
+n 0 120 m 469.8898 120 l S
+n 0 90 m 469.8898 90 l S
+n 0 60 m 469.8898 60 l S
+n 0 30 m 469.8898 30 l S
+n 33.56355 0 m 33.56355 660 l S
+n 67.12711 0 m 67.12711 660 l S
+n 254.1241 0 m 254.1241 660 l S
+n 311.6616 0 m 311.6616 660 l S
+n 412.3522 0 m 412.3522 660 l S
+n 0 0 m 0 660 l S
+n 469.8898 0 m 469.8898 660 l S
+Q
+Q
+ 
+
+endstream
+endobj
+16 0 obj
+<<
+/Length 14215
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 225.0236 cm
+1 1 1 rg
+n 0 540 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 510 469.8898 -30 re f*
+1 1 1 rg
+n 0 480 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 450 469.8898 -30 re f*
+1 1 1 rg
+n 0 420 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 390 469.8898 -30 re f*
+1 1 1 rg
+n 0 360 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 330 469.8898 -30 re f*
+1 1 1 rg
+n 0 300 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 270 469.8898 -30 re f*
+1 1 1 rg
+n 0 240 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 210 469.8898 -30 re f*
+1 1 1 rg
+n 0 180 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 150 469.8898 -30 re f*
+1 1 1 rg
+n 0 120 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -30 re f*
+1 1 1 rg
+n 0 60 469.8898 -30 re f*
+.878431 .878431 .878431 rg
+n 0 30 469.8898 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (15) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 513 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 525 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (15) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 483 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 495 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (15) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 453 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 465 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (234) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (15) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 423 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (234) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (15) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 393 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 405 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (15) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 363 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 375 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (16) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 333 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (16) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 303 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (16) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 273 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 285 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (234) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (16) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 243 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 255 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (234) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (16) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 225 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (16) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 195 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (17) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 153 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (17) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-deterministicclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 135 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (17) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (234) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (17) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-mixedeventrelatedprobe_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (234) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (17) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (sub-) Tj T* (17) Tj T* ET
+Q
+Q
+q
+1 0 0 1 39.56355 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (0) Tj T* ET
+Q
+Q
+q
+1 0 0 1 73.12711 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (task-probabilisticclassification_run-02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 260.1241 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (64 \327 64 \327) Tj T* (30) Tj T* ET
+Q
+Q
+q
+1 0 0 1 317.6616 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (3.125 \327 3.125 \327) Tj T* (5.000) Tj T* ET
+Q
+Q
+q
+1 0 0 1 418.3522 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (180) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 540 m 469.8898 540 l S
+n 0 510 m 469.8898 510 l S
+n 0 480 m 469.8898 480 l S
+n 0 450 m 469.8898 450 l S
+n 0 420 m 469.8898 420 l S
+n 0 390 m 469.8898 390 l S
+n 0 360 m 469.8898 360 l S
+n 0 330 m 469.8898 330 l S
+n 0 300 m 469.8898 300 l S
+n 0 270 m 469.8898 270 l S
+n 0 240 m 469.8898 240 l S
+n 0 210 m 469.8898 210 l S
+n 0 180 m 469.8898 180 l S
+n 0 150 m 469.8898 150 l S
+n 0 120 m 469.8898 120 l S
+n 0 90 m 469.8898 90 l S
+n 0 60 m 469.8898 60 l S
+n 0 30 m 469.8898 30 l S
+n 33.56355 0 m 33.56355 540 l S
+n 67.12711 0 m 67.12711 540 l S
+n 254.1241 0 m 254.1241 540 l S
+n 311.6616 0 m 311.6616 540 l S
+n 412.3522 0 m 412.3522 540 l S
+n 0 0 m 0 540 l S
+n 469.8898 0 m 469.8898 540 l S
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 225.0236 cm
+Q
+q
+1 0 0 1 62.69291 195.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .258735 Tw 12 TL /F1 10 Tf 0 0 0 rg (For details on the IQMs \(image quality metrics\) and further information on the enclosed plots, please read) Tj T* 0 Tw (the ) Tj 0 0 .501961 rg (user guide) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+17 0 obj
+<<
+/Rect [ 79.37291 195.0236 126.0629 207.0236 ]
+/Border [ 0 0 0 ]
+/Type /Annot
+/A <<
+/Type /Action
+/URI (http\072\057\057mriqc\056readthedocs\056org\057en\057latest\057userguide\056html)
+/S /URI
+>>
+/Subtype /Link
+>>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000009 00000 n 
+0000000092 00000 n 
+0000000132 00000 n 
+0000000332 00000 n 
+0000000533 00000 n 
+0000000734 00000 n 
+0000000935 00000 n 
+0000001155 00000 n 
+0000001204 00000 n 
+0000018124 00000 n 
+0000018168 00000 n 
+0000018281 00000 n 
+0000018389 00000 n 
+0000035345 00000 n 
+0000052311 00000 n 
+0000069267 00000 n 
+0000083536 00000 n 
+trailer
+<<
+/Size 18
+/Root 8 0 R
+/Info 2 0 R
+>>
+startxref
+83769
+%%EOF
